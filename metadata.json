@@ -1,0 +1,6 @@
+{
+  "name": "ExamVerse AI",
+  "description": "A comprehensive AI-powered unified examination directory, calendar timeline, preparation guide, interactive MCQ quiz player, and student command console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
